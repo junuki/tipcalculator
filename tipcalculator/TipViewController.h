@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  TipViewController.h
 //  tipcalculator
 //
 //  Created by Jung Eun Kim on 6/17/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface TipViewController : UIViewController
 
 @end
